@@ -18,7 +18,7 @@ Enterprise Integrator 7.x series product suite consists of Micro Integrator and 
         </svg>
         <div class="content-block">
             <h3 class="home-title">Micro Integrator</h3>
-            <p>A cloud-native variant of the battle-tested WSO2 EI/ESB runtime based on xml configurations. It comes with Integration Studio (a graphical drag-and-drop integration flow development environment). Additionally, it includes a CLI tool, a Kubernetes operator, a monitoring dashboard, and 100s of connectors that facilitate integration with on-premise systems and SaaS applications.</p>
+            <p>A cloud-native variant of the battle-tested WSO2 EI/ESB runtime based on xml configurations. It comes with Integration Studio (a graphical drag-and-drop integration flow development environment). Additionally, it includes a CLI tool, a Kubernetes operator, a monitoring dashboard, and 100s of connectors that facilitate integration with on-premises systems and SaaS applications.</p>
             <span class="explore-link">Explore Documentation
                 <svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M3 9h12m-4.5-4.5L15 9l-4.5 4.5" stroke="#1563FF"></path>
